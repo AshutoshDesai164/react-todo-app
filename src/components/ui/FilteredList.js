@@ -1,4 +1,3 @@
-import React from 'react';
 import TodoItem from './TodoItem';
 import {MSG_NO_ITEMS} from '../../assets/text/en_US';
 
